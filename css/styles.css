@@ -20,11 +20,7 @@ body{
 }
 .input{
     outline: 0;
-    width: 150px;
-}
-.input_date{
-    outline: 0;
-    width: 120px;
+    width: 250px;
 }
 .add{
     height: 30px;
